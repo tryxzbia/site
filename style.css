@@ -1,0 +1,27 @@
+body {
+    background: rgb(255, 255, 255)
+}
+
+#banner {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 80px
+}
+
+em strong {
+    color: rgb(245, 50, 203) 
+}
+
+p {
+    text-align: left;
+}
